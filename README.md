@@ -7,6 +7,7 @@ Hands-on Arduino & ESP32 prototyping blueprints with clean `.ino` firmware, part
 | Day | Project | Key Engineering Lesson | Est. Cost | Folder |
 | :---: | :--- | :--- | :---: | :--- |
 | **002** | **Smart Auto-Watering Greenhouse** | Capacitive vs. resistive sensors, Hysteresis (`35%→55%`) & 10s flood-safety watchdog | ~$14 | [`day-002-smart-greenhouse`](day-002-smart-greenhouse/) |
+| **006** | **HC-SR04 Ultrasonic Sensor Explained + Parking Alert** | 40 kHz Time-of-Flight (`÷ 2` round-trip), 30 ms `pulseIn` timeout & 3-sample median filter | ~$7 | [`day-006-ultrasonic-sensor-explained`](day-006-ultrasonic-sensor-explained/) |
 
 ## Quick Start
 
